@@ -1,0 +1,5 @@
+,uniqueness_ratio,length_std,length_cv,word_count_std,word_count_cv,format_consistency,content_similarity,num_samples,stationarity_score
+zero_shot,0.7333,29.6733,0.1093,3.3993,0.0797,1.0,0.8121,15.0,-0.5986
+one_shot,1.0,162.0509,0.2676,24.6913,0.2657,1.0,0.5325,15.0,-0.2551
+two_shot,1.0,128.0573,0.2235,19.617,0.2224,1.0,0.6111,15.0,-0.3236
+multi_shot,1.0,162.8745,0.2866,25.5439,0.2881,1.0,0.6104,15.0,-0.2803

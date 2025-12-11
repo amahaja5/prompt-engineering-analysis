@@ -1,0 +1,2606 @@
+prompt,system,temperature,response_text,stop_reason,input_tokens,output_tokens,model,variant,sample_idx,response_length,word_count
+"Analyze this product review and provide:
+1. Overall sentiment (Positive/Negative/Mixed)
+2. Key positive features (list)
+3. Key negative features (list)
+
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.",,0.7,"Analyzing the product review:
+
+1. Overall sentiment: Mixed
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks",end_turn,113,71,claude-3-haiku-20240307,zero_shot,0,284,43
+"Analyze this product review and provide:
+1. Overall sentiment (Positive/Negative/Mixed)
+2. Key positive features (list)
+3. Key negative features (list)
+
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.",,0.7,"Analyzing the provided product review:
+
+1. Overall sentiment: Mixed
+
+2. Key positive features:
+   - Long battery life (up to 12 hours)
+   - Clear and high-quality display
+   - Comfortable keyboard for extended use
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks",end_turn,113,77,claude-3-haiku-20240307,zero_shot,1,300,46
+"Analyze this product review and provide:
+1. Overall sentiment (Positive/Negative/Mixed)
+2. Key positive features (list)
+3. Key negative features (list)
+
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.",,0.7,"Analyzing the given product review:
+
+1. Overall sentiment: Mixed
+
+2. Key positive features:
+   - Long battery life (up to 12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks",end_turn,113,75,claude-3-haiku-20240307,zero_shot,2,296,46
+"Analyze this product review and provide:
+1. Overall sentiment (Positive/Negative/Mixed)
+2. Key positive features (list)
+3. Key negative features (list)
+
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.",,0.7,"Analyzing the product review:
+
+1. Overall sentiment: Mixed
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks",end_turn,113,71,claude-3-haiku-20240307,zero_shot,3,284,43
+"Analyze this product review and provide:
+1. Overall sentiment (Positive/Negative/Mixed)
+2. Key positive features (list)
+3. Key negative features (list)
+
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.",,0.7,"Analyzing the provided product review:
+
+1. Overall sentiment: Mixed
+
+2. Key positive features:
+   - Long battery life (up to 12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks",end_turn,113,75,claude-3-haiku-20240307,zero_shot,4,299,46
+"Analyze this product review and provide:
+1. Overall sentiment (Positive/Negative/Mixed)
+2. Key positive features (list)
+3. Key negative features (list)
+
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.",,0.7,"Analyzing the product review:
+
+1. Overall Sentiment: Mixed
+
+2. Key Positive Features:
+   - Long battery life (12 hours)
+   - Clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key Negative Features:
+   - High price point
+   - Gets warm during intensive tasks",end_turn,113,73,claude-3-haiku-20240307,zero_shot,5,276,42
+"Analyze this product review and provide:
+1. Overall sentiment (Positive/Negative/Mixed)
+2. Key positive features (list)
+3. Key negative features (list)
+
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.",,0.7,"Analyzing the provided product review:
+
+1. Overall sentiment: Mixed
+
+2. Key positive features:
+   - Long battery life (up to 12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks",end_turn,113,75,claude-3-haiku-20240307,zero_shot,6,299,46
+"Analyze this product review and provide:
+1. Overall sentiment (Positive/Negative/Mixed)
+2. Key positive features (list)
+3. Key negative features (list)
+
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.",,0.7,"1. Overall sentiment: Mixed
+
+2. Key positive features:
+- Long battery life (up to 12 hours)
+- Crystal clear display
+- Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+- High price point
+- Gets warm during intensive tasks",end_turn,113,63,claude-3-haiku-20240307,zero_shot,7,244,41
+"Analyze this product review and provide:
+1. Overall sentiment (Positive/Negative/Mixed)
+2. Key positive features (list)
+3. Key negative features (list)
+
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.",,0.7,"Analyzing the provided product review:
+
+1. Overall sentiment: **Mixed**
+
+2. Key positive features:
+   - Long battery life (up to 12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks",end_turn,113,77,claude-3-haiku-20240307,zero_shot,8,303,46
+"Analyze this product review and provide:
+1. Overall sentiment (Positive/Negative/Mixed)
+2. Key positive features (list)
+3. Key negative features (list)
+
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.",,0.7,"1. Overall sentiment: Mixed
+
+2. Key positive features:
+- Long battery life (12 hours)
+- Crystal clear display
+- Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+- High price point
+- Gets warm during intensive tasks",end_turn,113,60,claude-3-haiku-20240307,zero_shot,9,238,39
+"Analyze this product review and provide:
+1. Overall sentiment (Positive/Negative/Mixed)
+2. Key positive features (list)
+3. Key negative features (list)
+
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.",,0.7,"1. Overall sentiment: Mixed
+
+2. Key positive features:
+- Excellent battery life (lasts 12 hours)
+- Crystal clear display
+- Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+- High price point
+- Gets warm during intensive tasks",end_turn,113,64,claude-3-haiku-20240307,zero_shot,10,249,40
+"Analyze this product review and provide:
+1. Overall sentiment (Positive/Negative/Mixed)
+2. Key positive features (list)
+3. Key negative features (list)
+
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.",,0.7,"Analyzing the provided product review:
+
+1. Overall Sentiment: Mixed
+
+2. Key Positive Features:
+   - Long battery life (up to 12 hours)
+   - Clear and high-quality display
+   - Comfortable keyboard for prolonged use
+
+3. Key Negative Features:
+   - High price point
+   - Tends to get warm during intensive tasks",end_turn,113,84,claude-3-haiku-20240307,zero_shot,11,309,48
+"Analyze this product review and provide:
+1. Overall sentiment (Positive/Negative/Mixed)
+2. Key positive features (list)
+3. Key negative features (list)
+
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.",,0.7,"1. Overall sentiment: Mixed
+
+2. Key positive features:
+- Long battery life (12 hours)
+- Clear display
+- Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+- High price point
+- Gets warm during intensive tasks",end_turn,113,59,claude-3-haiku-20240307,zero_shot,12,230,38
+"Analyze this product review and provide:
+1. Overall sentiment (Positive/Negative/Mixed)
+2. Key positive features (list)
+3. Key negative features (list)
+
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.",,0.7,"1. Overall sentiment: Mixed
+
+2. Key positive features:
+- Long battery life (12 hours)
+- Clear display
+- Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+- High price point
+- Gets warm during intensive tasks",end_turn,113,59,claude-3-haiku-20240307,zero_shot,13,230,38
+"Analyze this product review and provide:
+1. Overall sentiment (Positive/Negative/Mixed)
+2. Key positive features (list)
+3. Key negative features (list)
+
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.",,0.7,"1. Overall sentiment: Mixed
+
+2. Key positive features:
+- Long battery life (12 hours)
+- Clear display
+- Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+- High price point
+- Gets warm during intensive tasks",end_turn,113,59,claude-3-haiku-20240307,zero_shot,14,230,38
+"Analyze product reviews and extract sentiment and key features.
+
+Example:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the given review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Clear display
+   - Comfortable keyboard
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+In summary, the review is generally positive, highlighting the long battery life, clear display, and comfortable keyboard as the key positive features of the UltraBook Pro laptop. However, the reviewer also notes that the price is quite high and the laptop can get warm during intensive use, which are the key negative aspects.",end_turn,189,132,claude-3-haiku-20240307,one_shot,0,581,91
+"Analyze product reviews and extract sentiment and key features.
+
+Example:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Here's the analysis of the second review:
+
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks",end_turn,189,71,claude-3-haiku-20240307,one_shot,1,272,42
+"Analyze product reviews and extract sentiment and key features.
+
+Example:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the given review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Clear display
+   - Comfortable keyboard
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+The review expresses a generally positive sentiment towards the UltraBook Pro laptop. The key positive features highlighted are the long battery life, clear display, and comfortable keyboard. However, the reviewer also notes that the price point is quite high and the laptop gets warm during intensive tasks, which are the key negative features.",end_turn,189,132,claude-3-haiku-20240307,one_shot,2,599,91
+"Analyze product reviews and extract sentiment and key features.
+
+Example:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the given review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+The review overall expresses a positive sentiment towards the UltraBook Pro laptop. The key positive features highlighted are the long battery life, the clarity of the display, and the comfort of the keyboard for prolonged use. However, the reviewer also notes two negative aspects: the high price point and the tendency of the laptop to get warm during intensive tasks.",end_turn,189,145,claude-3-haiku-20240307,one_shot,3,657,103
+"Analyze product reviews and extract sentiment and key features.
+
+Example:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the provided review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+In summary, the reviewer has a generally positive sentiment towards the UltraBook Pro laptop. The key positive features highlighted are the long battery life, clear display, and comfortable keyboard. The key negative aspects mentioned are the high price point and the tendency to get warm during intensive use.",end_turn,189,130,claude-3-haiku-20240307,one_shot,4,600,91
+"Analyze product reviews and extract sentiment and key features.
+
+Example:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Here's the analysis of the given review:
+
+Review: ""I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Clear display
+   - Comfortable keyboard
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks",end_turn,189,136,claude-3-haiku-20240307,one_shot,5,568,89
+"Analyze product reviews and extract sentiment and key features.
+
+Example:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the provided review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for typing
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+The review indicates that the customer is generally satisfied with the UltraBook Pro laptop. The positive aspects highlighted are the long battery life, clear display, and comfortable keyboard, which suggest a positive overall experience. However, the reviewer also notes the high price point and the laptop getting warm during intensive use as negative points.",end_turn,189,135,claude-3-haiku-20240307,one_shot,6,637,95
+"Analyze product reviews and extract sentiment and key features.
+
+Example:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+The review expresses a generally positive sentiment towards the UltraBook Pro laptop. The reviewer highlights several key positive features, including the long battery life, clear display, and comfortable keyboard. However, the reviewer also notes two negative aspects: the high price point and the tendency to get warm during intensive use.
+
+Overall, the review suggests that the UltraBook Pro is a high-quality laptop with excellent performance, but the high cost may be a deterrent for some customers.",end_turn,189,170,claude-3-haiku-20240307,one_shot,7,785,118
+"Analyze product reviews and extract sentiment and key features.
+
+Example:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+The review is overall positive, with the customer expressing satisfaction with the laptop's battery life, display quality, and keyboard comfort. The key negative aspects mentioned are the high price and the tendency to get warm during intensive use.",end_turn,189,116,claude-3-haiku-20240307,one_shot,8,530,80
+"Analyze product reviews and extract sentiment and key features.
+
+Example:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Here's the analysis of the second review:
+
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+The overall sentiment of this review is positive. The reviewer is thoroughly impressed with the UltraBook Pro laptop, highlighting several key positive features such as the long battery life, crystal clear display, and comfortable keyboard. However, the reviewer also mentions two negative aspects: the high price point and the fact that the laptop gets warm during intensive tasks.",end_turn,189,141,claude-3-haiku-20240307,one_shot,9,656,100
+"Analyze product reviews and extract sentiment and key features.
+
+Example:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the provided review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+In this review, the customer seems to be generally satisfied with the UltraBook Pro laptop. The key positive aspects highlighted are the long battery life, the clarity of the display, and the comfort of the keyboard. However, the reviewer also notes that the price point is quite high and the laptop can get warm during intensive use, which are the negative features.
+
+Overall, the review appears to be a mixed sentiment, with the positive features outweighing the negative ones, resulting in a positive overall impression of the product.",end_turn,189,179,claude-3-haiku-20240307,one_shot,10,819,130
+"Analyze product reviews and extract sentiment and key features.
+
+Example:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Here's the analysis of the second review:
+
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+The review expresses a positive overall sentiment towards the UltraBook Pro laptop. The key positive features highlighted are the long battery life, clear display, and comfortable keyboard. The key negative features are the high price point and the tendency to get warm during intensive tasks.",end_turn,189,126,claude-3-haiku-20240307,one_shot,11,567,87
+"Analyze product reviews and extract sentiment and key features.
+
+Example:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Here's the analysis of the second review:
+
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+The overall sentiment of this review is positive. The reviewer is thoroughly impressed with the UltraBook Pro laptop, highlighting several key positive features such as the long battery life, clear display, and comfortable keyboard. However, the reviewer also notes two negative aspects: the high price point and the tendency to get warm during intensive tasks.",end_turn,189,142,claude-3-haiku-20240307,one_shot,12,660,101
+"Analyze product reviews and extract sentiment and key features.
+
+Example:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the provided review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Clear display
+   - Comfortable keyboard
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+Analysis:
+
+The review of the UltraBook Pro laptop is generally positive, with the customer expressing satisfaction with the key features such as the long battery life, clear display, and comfortable keyboard. However, the reviewer also notes some drawbacks, namely the high price point and the tendency of the laptop to get warm during intensive use.
+
+The overall sentiment of the review is positive, as the reviewer states they are ""thoroughly impressed"" with the laptop, despite the mentioned negative aspects. The positive features seem to outweigh the negatives, suggesting the reviewer is satisfied with their purchase.",end_turn,189,187,claude-3-haiku-20240307,one_shot,13,881,133
+"Analyze product reviews and extract sentiment and key features.
+
+Example:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Here is the analysis of the second review:
+
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks",end_turn,189,71,claude-3-haiku-20240307,one_shot,14,273,43
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the given review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+The review expresses a generally positive sentiment towards the UltraBook Pro laptop. The key positive features highlighted are the long battery life, clear display, and comfortable keyboard. However, the reviewer also notes that the price point is quite high and the laptop tends to get warm during intensive use, which are identified as the key negative features.",end_turn,269,141,claude-3-haiku-20240307,two_shot,0,652,100
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the review:
+
+1. Overall sentiment: Mixed
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+In summary, the reviewer has a mixed sentiment towards the UltraBook Pro laptop. The positive aspects highlighted are the long battery life, clear display, and comfortable keyboard. However, the reviewer also mentions the high price point and the laptop getting warm during intensive use as negative points.",end_turn,269,128,claude-3-haiku-20240307,two_shot,1,585,89
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+In summary, the review is mostly positive, highlighting the long battery life, clear display, and comfortable keyboard as the key positive features of the UltraBook Pro laptop. The main negatives mentioned are the high price point and the tendency to get warm during intensive use.",end_turn,269,127,claude-3-haiku-20240307,two_shot,2,562,87
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the review:
+
+1. Overall sentiment: Mixed
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+In this review, the user expresses a mixed sentiment towards the UltraBook Pro laptop. On the positive side, they highlight the excellent battery life, clear display, and comfortable keyboard. However, they also mention the high price point and the fact that the laptop gets warm during intensive use, which are seen as negative aspects.
+
+Overall, the review provides a balanced assessment of the product, indicating that while the laptop has several desirable features, the high cost and thermal performance may be drawbacks for some users.",end_turn,269,176,claude-3-haiku-20240307,two_shot,3,819,127
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the given review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+In summary, the review expresses a positive sentiment overall. The key positive features highlighted are the long battery life, clear display, and comfortable keyboard. The key negative aspects mentioned are the high price point and the laptop getting warm during intensive usage.",end_turn,269,122,claude-3-haiku-20240307,two_shot,4,567,85
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the provided review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for typing
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+In summary, the review expresses a positive overall sentiment towards the UltraBook Pro laptop. The key positive features highlighted are the long battery life, clear display, and comfortable keyboard. The key negative aspects mentioned are the high price point and the tendency to get warm during intensive use.",end_turn,269,129,claude-3-haiku-20240307,two_shot,5,588,89
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the given review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+The review is generally positive, highlighting the good battery life, display quality, and comfortable keyboard as the key positive features of the UltraBook Pro laptop. However, the reviewer also notes that the price point is quite high and the laptop tends to get warm during intensive use, which are the key negative aspects mentioned.",end_turn,269,136,claude-3-haiku-20240307,two_shot,6,616,96
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the given review:
+
+1. Overall sentiment: Mixed
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+In summary, the review expresses a mixed sentiment towards the UltraBook Pro laptop. The positive aspects highlighted are the long battery life, clear display, and comfortable keyboard. However, the reviewer also notes the high price point and the tendency of the laptop to get warm during intensive use as negative features.",end_turn,269,134,claude-3-haiku-20240307,two_shot,7,609,94
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analysis of the given review:
+
+1. Overall sentiment: Mixed
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks",end_turn,269,71,claude-3-haiku-20240307,two_shot,8,284,44
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Here is the analysis of the third review:
+
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for typing
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks",end_turn,269,73,claude-3-haiku-20240307,two_shot,9,283,45
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the review:
+
+1. Overall sentiment: Mixed
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for typing
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+The review expresses a mixed sentiment. The customer is thoroughly impressed with the positive aspects of the UltraBook Pro laptop, such as the long battery life, clear display, and comfortable keyboard. However, they also mention that the price point is quite high and the laptop gets warm during intensive tasks, which are negatives.",end_turn,269,135,claude-3-haiku-20240307,two_shot,10,599,93
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the given review:
+
+1. Overall sentiment: Mixed
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+The review presents a mixed sentiment, with the reviewer being impressed with the positive aspects of the UltraBook Pro laptop, such as the long battery life, clear display, and comfortable keyboard. However, the reviewer also notes two negative aspects: the high price point and the tendency to get warm during intensive use.",end_turn,269,135,claude-3-haiku-20240307,two_shot,11,610,95
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the given review:
+
+1. Overall sentiment: Mixed
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+In summary, the review expresses a mixed sentiment towards the UltraBook Pro laptop. The positive aspects highlighted are the long battery life, clear display, and comfortable keyboard, while the negative points mentioned are the high price and the tendency to get warm during intensive use.",end_turn,269,127,claude-3-haiku-20240307,two_shot,12,575,88
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analysis of the review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+The review expresses a generally positive sentiment towards the UltraBook Pro laptop. The key positive features highlighted are the long battery life, clear display, and comfortable keyboard. However, the reviewer also notes two negative aspects - the high price point and the tendency to get warm during intensive use.",end_turn,269,131,claude-3-haiku-20240307,two_shot,13,602,92
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the given review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+In summary, the review expresses a positive sentiment overall towards the UltraBook Pro laptop. The key positive aspects mentioned are the long battery life, clear display, and comfortable keyboard. However, the reviewer also notes that the laptop has a high price point and can get warm during intensive use, which are the key negative features identified.",end_turn,269,141,claude-3-haiku-20240307,two_shot,14,644,99
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Example 3:
+Review: ""Terrible coffee maker. Leaked water everywhere, broke after 2 weeks. Complete waste of money.""
+
+Analysis:
+1. Overall sentiment: Negative
+2. Key positive features:
+   - None mentioned
+3. Key negative features:
+   - Leaks water
+   - Poor durability (broke after 2 weeks)
+   - Poor value for money
+
+Example 4:
+Review: ""The fitness tracker works well for basic tracking. Steps and heart rate are accurate. 
+However, the app is clunky and syncing is unreliable.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Accurate step tracking
+   - Accurate heart rate monitoring
+3. Key negative features:
+   - Clunky app interface
+   - Unreliable syncing
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Here is the analysis of the given review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for typing
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+In summary, the reviewer has a positive overall impression of the UltraBook Pro laptop. The key highlights are the excellent battery life, clear display, and comfortable keyboard. However, the reviewer notes that the high price point and the tendency to get warm during heavy use are potential downsides.",end_turn,458,134,claude-3-haiku-20240307,multi_shot,0,591,93
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Example 3:
+Review: ""Terrible coffee maker. Leaked water everywhere, broke after 2 weeks. Complete waste of money.""
+
+Analysis:
+1. Overall sentiment: Negative
+2. Key positive features:
+   - None mentioned
+3. Key negative features:
+   - Leaks water
+   - Poor durability (broke after 2 weeks)
+   - Poor value for money
+
+Example 4:
+Review: ""The fitness tracker works well for basic tracking. Steps and heart rate are accurate. 
+However, the app is clunky and syncing is unreliable.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Accurate step tracking
+   - Accurate heart rate monitoring
+3. Key negative features:
+   - Clunky app interface
+   - Unreliable syncing
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the given review:
+
+1. Overall sentiment: Mixed
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for typing
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+In summary, the review presents a mixed sentiment towards the UltraBook Pro laptop. The key positive aspects highlighted are the long battery life, clear display, and comfortable keyboard. However, the reviewer also notes the high price point and the tendency of the laptop to get warm during intensive use as negative features.",end_turn,458,132,claude-3-haiku-20240307,multi_shot,1,598,93
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Example 3:
+Review: ""Terrible coffee maker. Leaked water everywhere, broke after 2 weeks. Complete waste of money.""
+
+Analysis:
+1. Overall sentiment: Negative
+2. Key positive features:
+   - None mentioned
+3. Key negative features:
+   - Leaks water
+   - Poor durability (broke after 2 weeks)
+   - Poor value for money
+
+Example 4:
+Review: ""The fitness tracker works well for basic tracking. Steps and heart rate are accurate. 
+However, the app is clunky and syncing is unreliable.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Accurate step tracking
+   - Accurate heart rate monitoring
+3. Key negative features:
+   - Clunky app interface
+   - Unreliable syncing
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Here's the analysis of the given review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for typing
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+The review expresses a generally positive sentiment towards the UltraBook Pro laptop. The key positive features highlighted are the long battery life, clear display, and comfortable keyboard. However, the reviewer also mentions the high price point and the tendency of the laptop to get warm during intensive use as negative aspects.",end_turn,458,135,claude-3-haiku-20240307,multi_shot,2,619,95
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Example 3:
+Review: ""Terrible coffee maker. Leaked water everywhere, broke after 2 weeks. Complete waste of money.""
+
+Analysis:
+1. Overall sentiment: Negative
+2. Key positive features:
+   - None mentioned
+3. Key negative features:
+   - Leaks water
+   - Poor durability (broke after 2 weeks)
+   - Poor value for money
+
+Example 4:
+Review: ""The fitness tracker works well for basic tracking. Steps and heart rate are accurate. 
+However, the app is clunky and syncing is unreliable.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Accurate step tracking
+   - Accurate heart rate monitoring
+3. Key negative features:
+   - Clunky app interface
+   - Unreliable syncing
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Here is the analysis of the given review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for typing
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+The review expresses a positive overall sentiment towards the UltraBook Pro laptop. The key positive features highlighted are the long battery life, the crystal clear display, and the comfortable keyboard. However, the reviewer also notes two negative aspects - the high price point and the tendency to get warm during intensive usage.",end_turn,458,136,claude-3-haiku-20240307,multi_shot,3,622,97
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Example 3:
+Review: ""Terrible coffee maker. Leaked water everywhere, broke after 2 weeks. Complete waste of money.""
+
+Analysis:
+1. Overall sentiment: Negative
+2. Key positive features:
+   - None mentioned
+3. Key negative features:
+   - Leaks water
+   - Poor durability (broke after 2 weeks)
+   - Poor value for money
+
+Example 4:
+Review: ""The fitness tracker works well for basic tracking. Steps and heart rate are accurate. 
+However, the app is clunky and syncing is unreliable.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Accurate step tracking
+   - Accurate heart rate monitoring
+3. Key negative features:
+   - Clunky app interface
+   - Unreliable syncing
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Here's the analysis of the given product review:
+
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for typing
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+The review overall expresses a positive sentiment towards the UltraBook Pro laptop. The key positive features highlighted are the long battery life, the clear display, and the comfortable keyboard. However, the reviewer also notes two negative aspects - the high price point and the tendency to get warm during intensive use.",end_turn,458,136,claude-3-haiku-20240307,multi_shot,4,617,96
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Example 3:
+Review: ""Terrible coffee maker. Leaked water everywhere, broke after 2 weeks. Complete waste of money.""
+
+Analysis:
+1. Overall sentiment: Negative
+2. Key positive features:
+   - None mentioned
+3. Key negative features:
+   - Leaks water
+   - Poor durability (broke after 2 weeks)
+   - Poor value for money
+
+Example 4:
+Review: ""The fitness tracker works well for basic tracking. Steps and heart rate are accurate. 
+However, the app is clunky and syncing is unreliable.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Accurate step tracking
+   - Accurate heart rate monitoring
+3. Key negative features:
+   - Clunky app interface
+   - Unreliable syncing
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Here's the analysis of the given review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Clear display
+   - Comfortable keyboard for typing
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks",end_turn,458,72,claude-3-haiku-20240307,multi_shot,5,276,43
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Example 3:
+Review: ""Terrible coffee maker. Leaked water everywhere, broke after 2 weeks. Complete waste of money.""
+
+Analysis:
+1. Overall sentiment: Negative
+2. Key positive features:
+   - None mentioned
+3. Key negative features:
+   - Leaks water
+   - Poor durability (broke after 2 weeks)
+   - Poor value for money
+
+Example 4:
+Review: ""The fitness tracker works well for basic tracking. Steps and heart rate are accurate. 
+However, the app is clunky and syncing is unreliable.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Accurate step tracking
+   - Accurate heart rate monitoring
+3. Key negative features:
+   - Clunky app interface
+   - Unreliable syncing
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Here is the analysis of the provided review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Clear and high-quality display
+   - Comfortable keyboard for typing
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+In summary, the reviewer has a generally positive sentiment towards the UltraBook Pro laptop. The key positive aspects highlighted are the long battery life, clear display, and comfortable keyboard. However, the reviewer notes the high price point and the tendency of the laptop to get warm during intensive use as negative features.",end_turn,458,139,claude-3-haiku-20240307,multi_shot,6,632,98
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Example 3:
+Review: ""Terrible coffee maker. Leaked water everywhere, broke after 2 weeks. Complete waste of money.""
+
+Analysis:
+1. Overall sentiment: Negative
+2. Key positive features:
+   - None mentioned
+3. Key negative features:
+   - Leaks water
+   - Poor durability (broke after 2 weeks)
+   - Poor value for money
+
+Example 4:
+Review: ""The fitness tracker works well for basic tracking. Steps and heart rate are accurate. 
+However, the app is clunky and syncing is unreliable.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Accurate step tracking
+   - Accurate heart rate monitoring
+3. Key negative features:
+   - Clunky app interface
+   - Unreliable syncing
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the given review:
+
+1. Overall sentiment: Mixed
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for typing
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+The review expresses a mixed sentiment towards the UltraBook Pro laptop. While the reviewer is impressed with the laptop's battery life, display, and keyboard, they also mention the high price point and the fact that the laptop gets warm during intensive use as negative aspects.
+
+The key positive features highlighted are:
+- Long battery life of 12 hours
+- Crystal clear display
+- Comfortable keyboard for long typing sessions
+
+The key negative features mentioned are:
+- High price point
+- Laptop gets warm during intensive tasks
+
+Overall, the review presents a balanced assessment of the laptop, acknowledging both the strengths and the weaknesses of the product.",end_turn,458,206,claude-3-haiku-20240307,multi_shot,7,935,147
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Example 3:
+Review: ""Terrible coffee maker. Leaked water everywhere, broke after 2 weeks. Complete waste of money.""
+
+Analysis:
+1. Overall sentiment: Negative
+2. Key positive features:
+   - None mentioned
+3. Key negative features:
+   - Leaks water
+   - Poor durability (broke after 2 weeks)
+   - Poor value for money
+
+Example 4:
+Review: ""The fitness tracker works well for basic tracking. Steps and heart rate are accurate. 
+However, the app is clunky and syncing is unreliable.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Accurate step tracking
+   - Accurate heart rate monitoring
+3. Key negative features:
+   - Clunky app interface
+   - Unreliable syncing
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Here's the analysis of the provided review:
+
+1. Overall sentiment: Mixed
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks",end_turn,458,74,claude-3-haiku-20240307,multi_shot,8,298,46
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Example 3:
+Review: ""Terrible coffee maker. Leaked water everywhere, broke after 2 weeks. Complete waste of money.""
+
+Analysis:
+1. Overall sentiment: Negative
+2. Key positive features:
+   - None mentioned
+3. Key negative features:
+   - Leaks water
+   - Poor durability (broke after 2 weeks)
+   - Poor value for money
+
+Example 4:
+Review: ""The fitness tracker works well for basic tracking. Steps and heart rate are accurate. 
+However, the app is clunky and syncing is unreliable.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Accurate step tracking
+   - Accurate heart rate monitoring
+3. Key negative features:
+   - Clunky app interface
+   - Unreliable syncing
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Here is the analysis of the given review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for typing
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks",end_turn,458,73,claude-3-haiku-20240307,multi_shot,9,285,45
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Example 3:
+Review: ""Terrible coffee maker. Leaked water everywhere, broke after 2 weeks. Complete waste of money.""
+
+Analysis:
+1. Overall sentiment: Negative
+2. Key positive features:
+   - None mentioned
+3. Key negative features:
+   - Leaks water
+   - Poor durability (broke after 2 weeks)
+   - Poor value for money
+
+Example 4:
+Review: ""The fitness tracker works well for basic tracking. Steps and heart rate are accurate. 
+However, the app is clunky and syncing is unreliable.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Accurate step tracking
+   - Accurate heart rate monitoring
+3. Key negative features:
+   - Clunky app interface
+   - Unreliable syncing
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Here's the analysis of the given review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for typing
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+The review is overall positive, highlighting the key strengths of the UltraBook Pro laptop, such as its long battery life, clear display, and comfortable keyboard. However, it also mentions two potential drawbacks - the high price point and the tendency to get warm during intensive use.",end_turn,458,132,claude-3-haiku-20240307,multi_shot,10,573,90
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Example 3:
+Review: ""Terrible coffee maker. Leaked water everywhere, broke after 2 weeks. Complete waste of money.""
+
+Analysis:
+1. Overall sentiment: Negative
+2. Key positive features:
+   - None mentioned
+3. Key negative features:
+   - Leaks water
+   - Poor durability (broke after 2 weeks)
+   - Poor value for money
+
+Example 4:
+Review: ""The fitness tracker works well for basic tracking. Steps and heart rate are accurate. 
+However, the app is clunky and syncing is unreliable.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Accurate step tracking
+   - Accurate heart rate monitoring
+3. Key negative features:
+   - Clunky app interface
+   - Unreliable syncing
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Here's the analysis of the given review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+The review overall has a positive sentiment, with the customer highlighting the impressive battery life, clear display, and comfortable keyboard as the key positive features of the UltraBook Pro laptop. However, the reviewer also notes that the price point is quite high and the laptop can get warm during intensive use, which are the key negative aspects.",end_turn,458,139,claude-3-haiku-20240307,multi_shot,11,631,99
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Example 3:
+Review: ""Terrible coffee maker. Leaked water everywhere, broke after 2 weeks. Complete waste of money.""
+
+Analysis:
+1. Overall sentiment: Negative
+2. Key positive features:
+   - None mentioned
+3. Key negative features:
+   - Leaks water
+   - Poor durability (broke after 2 weeks)
+   - Poor value for money
+
+Example 4:
+Review: ""The fitness tracker works well for basic tracking. Steps and heart rate are accurate. 
+However, the app is clunky and syncing is unreliable.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Accurate step tracking
+   - Accurate heart rate monitoring
+3. Key negative features:
+   - Clunky app interface
+   - Unreliable syncing
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the provided review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for typing
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+In summary, the reviewer is generally satisfied with the UltraBook Pro laptop, highlighting the long battery life, clear display, and comfortable keyboard as the main positive aspects. However, the reviewer also notes that the high price point and the tendency to get warm during intensive use are the negative features of the laptop.",end_turn,458,134,claude-3-haiku-20240307,multi_shot,12,610,94
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Example 3:
+Review: ""Terrible coffee maker. Leaked water everywhere, broke after 2 weeks. Complete waste of money.""
+
+Analysis:
+1. Overall sentiment: Negative
+2. Key positive features:
+   - None mentioned
+3. Key negative features:
+   - Leaks water
+   - Poor durability (broke after 2 weeks)
+   - Poor value for money
+
+Example 4:
+Review: ""The fitness tracker works well for basic tracking. Steps and heart rate are accurate. 
+However, the app is clunky and syncing is unreliable.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Accurate step tracking
+   - Accurate heart rate monitoring
+3. Key negative features:
+   - Clunky app interface
+   - Unreliable syncing
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Here's the analysis of the given review:
+
+1. Overall sentiment: Positive
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing sessions
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+In summary, the reviewer has a generally positive sentiment towards the UltraBook Pro laptop. The key positive aspects highlighted are the long battery life, clear display, and comfortable keyboard. However, the reviewer also notes the high price point and the tendency of the laptop to get warm during intensive use as negative points.",end_turn,458,139,claude-3-haiku-20240307,multi_shot,13,636,99
+"Analyze product reviews and extract sentiment and key features.
+
+Example 1:
+Review: ""The wireless headphones sound great and are very comfortable. Battery lasts 20 hours. 
+But they're expensive and don't fold for storage.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Great sound quality
+   - Very comfortable
+   - 20-hour battery life
+3. Key negative features:
+   - Expensive
+   - Don't fold for storage
+
+Example 2:
+Review: ""This smartphone is amazing! Super fast processor, excellent camera, beautiful design. 
+Absolutely love it!""
+
+Analysis:
+1. Overall sentiment: Positive
+2. Key positive features:
+   - Super fast processor
+   - Excellent camera
+   - Beautiful design
+3. Key negative features:
+   - None mentioned
+
+Example 3:
+Review: ""Terrible coffee maker. Leaked water everywhere, broke after 2 weeks. Complete waste of money.""
+
+Analysis:
+1. Overall sentiment: Negative
+2. Key positive features:
+   - None mentioned
+3. Key negative features:
+   - Leaks water
+   - Poor durability (broke after 2 weeks)
+   - Poor value for money
+
+Example 4:
+Review: ""The fitness tracker works well for basic tracking. Steps and heart rate are accurate. 
+However, the app is clunky and syncing is unreliable.""
+
+Analysis:
+1. Overall sentiment: Mixed
+2. Key positive features:
+   - Accurate step tracking
+   - Accurate heart rate monitoring
+3. Key negative features:
+   - Clunky app interface
+   - Unreliable syncing
+
+Now analyze this review:
+Review: I recently purchased the UltraBook Pro laptop and I'm thoroughly impressed. 
+The battery life easily lasts 12 hours, the display is crystal clear, and the keyboard is comfortable 
+for long typing sessions. However, the price point is quite high and it gets warm during intensive tasks.
+
+Analysis:",,0.7,"Analyzing the given review:
+
+1. Overall sentiment: Mixed
+
+2. Key positive features:
+   - Long battery life (12 hours)
+   - Crystal clear display
+   - Comfortable keyboard for long typing
+
+3. Key negative features:
+   - High price point
+   - Gets warm during intensive tasks
+
+The review provides a balanced perspective on the UltraBook Pro laptop. The customer is generally satisfied with the key features like the long battery life, clear display, and comfortable keyboard, but they also note the high price point and the tendency for the laptop to get warm during intensive use as potential downsides.",end_turn,458,134,claude-3-haiku-20240307,multi_shot,14,602,95
